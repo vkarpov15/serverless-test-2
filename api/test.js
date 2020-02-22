@@ -1,3 +1,5 @@
 'use strict';
 
-module.exports = (req, res) => res.json({ hello: 'world2' });
+exports.handler = async function(event, context) {
+  return { statusCode: 200, body: 'Hello, World' };
+};
