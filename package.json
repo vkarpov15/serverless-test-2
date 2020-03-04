@@ -1,7 +1,7 @@
 {
   "name": "serverless-test-2",
   "dependencies": {
-    "mongoose": "5.x",
-    "express": "4.17.x"
+    "mongoose": "5.0.1",
+    "express": "4.17.0"
   }
 }
