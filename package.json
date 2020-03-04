@@ -1,3 +1,6 @@
 {
-  "name": "serverless-test-2"
+  "name": "serverless-test-2",
+  "dependencies": {
+    "mongoose": "5.x"
+  }
 }
